@@ -25,7 +25,7 @@ def  find_flag():
 	return "".join(lst)
 print(find_flag())
 ```
-After running the code,the result is:
+After running the code,the result:
 
 ![base1-2](https://user-images.githubusercontent.com/84562630/159452922-7ef9fcda-fe96-47f5-8ad7-8636c8648bd0.PNG)
 
